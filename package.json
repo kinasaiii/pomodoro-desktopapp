@@ -1,0 +1,12 @@
+{
+    "name": "pomodoro-desktopapp",
+    "version": "1.0.0",
+    "description": "A desktop application for Pomodoro technique",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^24.0.0"
+    }
+}
